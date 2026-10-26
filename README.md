@@ -1,4 +1,5 @@
 # GTL — Gestão de Trânsito em Luanda
+https://github.com/Leonardodev99/gest-transito.readme/blob/main/LICENSE
 ## Documentação Técnica
 **Versão do documento:** 1.0
 **Última atualização:** Julho de 2026
