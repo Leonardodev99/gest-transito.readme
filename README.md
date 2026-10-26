@@ -44,6 +44,8 @@ O sistema cobre: gestão de agentes, condutores e veículos; registo e consulta 
 - **WebSocket só para um caso de uso**: localização de agentes em tempo real. Todo o resto do sistema é REST tradicional (polling manual/refresh), porque não há necessidade de latência mínima nesses fluxos.
 
 ---
+## Layout mobile
+![Mobile 1](https://github.com/user-attachments/assets/846745a6-1032-408b-85e5-37e18143db8f) 
 ## 3. Stack Tecnológica
 
 ### 3.1 Backend
